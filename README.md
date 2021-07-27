@@ -7,5 +7,7 @@ Exercises from Curso Em Vídeo
 0. Make a program that reads something from the keyboard and displays its primitive type and all possible information about it on the screen.
 0. Make a program that reads an Integer and displays its successor and predecessor on the screen.
 0. Create an algorithm that reads a number and shows its double, triple and square root.
+0. Develop a program that reads a student's two grades, calculates and displays their average.
+0. Write a program that reads a value in meters and displays it converted to centimeters and millimeters
 
  
