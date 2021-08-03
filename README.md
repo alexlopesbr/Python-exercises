@@ -8,8 +8,10 @@ Exercises from Curso Em Vídeo
 04. Make a program that reads an Integer and displays its successor and predecessor on the screen.
 05. Create an algorithm that reads a number and shows its double, triple and square root.
 06. Develop a program that reads a student's two grades, calculates and displays their average.
-07. Write a program that reads a value in meters and displays it converted to centimeters and millimeters
+07. Write a program that reads a value in meters and displays it converted to centimeters and millimeters.
 08. Make a program that reads any Integer and displays your times tables on the screen.
 09. Create a program that reads how much money a person has in their wallet and shows how many dollars they can buy.
 10. Make a program that reads the width and height of a wall in meters, calculates its area and the amount of paint needed to paint it, knowing that each liter of paint paints an area of ​​2 square meters.
 11. Make an algorithm that reads the price of a product and shows its new price, with 5% off.
+12. Make an algorithm that reads an employee's salary and shows their new salary, with a 15% increase.
+13. Write a program that converts a temperature by typing in degrees Celsius and converts it to degrees Fahrenheit.
