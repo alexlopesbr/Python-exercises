@@ -15,3 +15,4 @@ Exercises from Curso Em Vídeo
 11. Make an algorithm that reads the price of a product and shows its new price, with 5% off.
 12. Make an algorithm that reads an employee's salary and shows their new salary, with a 15% increase.
 13. Write a program that converts a temperature by typing in degrees Celsius and converts it to degrees Fahrenheit.
+14. Write a program that asks how many miles a rental car has traveled and how many days it has been rented... 
