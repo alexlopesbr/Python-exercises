@@ -18,3 +18,6 @@ Exercises from Curso Em Vídeo
 14. Write a program that asks how many miles a rental car has traveled and how many days it has been rented...
 15. Create a program that reads any real number from the keyboard and displays its entire portion on the screen.
 16. Write a program that reads the length of the opposite side and the adjacent side of a right triangle. Calculate and show the length of the hypotenuse.
+17. Make a program that reads any angle and displays the sine, cosine and tangent value of that angle on the screen.
+18. A teacher wants to draw one of his four students to erase the board. Make a program that helps him by reading the names of the students and writing the name of the chosen one on the screen.
+19. The same teacher in challenge 19 wants to draw the order of presentation of students from students. Make a program that reads the names of the four students and shows the order
