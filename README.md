@@ -21,3 +21,5 @@ Exercises from Curso Em Vídeo
 17. Make a program that reads any angle and displays the sine, cosine and tangent value of that angle on the screen.
 18. A teacher wants to draw one of his four students to erase the board. Make a program that helps him by reading the names of the students and writing the name of the chosen one on the screen.
 19. The same teacher in challenge 19 wants to draw the order of presentation of students from students. Make a program that reads the names of the four students and shows the order
+20. Make a Python program that opens and plays audio from an MP3 file.
+21. Python Exercise 22: Create a program that reads a person's full name and displays: - The name in all upper and lower case letters. - How many letters in total (not including spaces). - How many letters has the first name. 
