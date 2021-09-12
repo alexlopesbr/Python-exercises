@@ -22,4 +22,7 @@ Exercises from Curso Em Vídeo
 18. A teacher wants to draw one of his four students to erase the board. Make a program that helps him by reading the names of the students and writing the name of the chosen one on the screen.
 19. The same teacher in challenge 19 wants to draw the order of presentation of students from students. Make a program that reads the names of the four students and shows the order
 20. Make a Python program that opens and plays audio from an MP3 file.
-21. Python Exercise 22: Create a program that reads a person's full name and displays: - The name in all upper and lower case letters. - How many letters in total (not including spaces). - How many letters has the first name. 
+21. Python Exercise 22: Create a program that reads a person's full name and displays: - The name in all upper and lower case letters. - How many letters in total (not including spaces). - How many letters has the first name.
+22. Write a program that reads a number from 0 to 9999 and displays each of the separate digits on the screen.
+23. Create a program that reads the name of a city and says whether or not it starts with the name “SANTO”.
+24. Create a program that reads a person's name and tells them if they have “SILVA” in their name. 
