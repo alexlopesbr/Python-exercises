@@ -25,4 +25,7 @@ Exercises from Curso Em Vídeo
 21. Python Exercise 22: Create a program that reads a person's full name and displays: - The name in all upper and lower case letters. - How many letters in total (not including spaces). - How many letters has the first name.
 22. Write a program that reads a number from 0 to 9999 and displays each of the separate digits on the screen.
 23. Create a program that reads the name of a city and says whether or not it starts with the name “SANTO”.
-24. Create a program that reads a person's name and tells them if they have “SILVA” in their name. 
+24. Create a program that reads a person's name and tells them if they have “silva” in their name.
+25. Create a program that reads a person's name and tells them if they have “SILVA” in their name. 
+26. Make a program that reads a person's full name, then displays the first and last name separately.
+27. Write a program that makes the computer “think” of an integer between 0 and 5 and ask the user to try to find out which number was chosen by the computer. The program should write on the screen if the user won or lost.
