@@ -1,6 +1,6 @@
 # Make a program that reads an Integer and displays its successor and predecessor on the screen.
 
-number = int(input("Enter a number: "))
+number = int(input('Enter a number: '))
 successor = number + 1
 predecessor = number - 1
 

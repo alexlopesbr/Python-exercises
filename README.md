@@ -29,3 +29,4 @@ Exercises from Curso Em Vídeo
 25. Create a program that reads a person's name and tells them if they have “SILVA” in their name. 
 26. Make a program that reads a person's full name, then displays the first and last name separately.
 27. Write a program that makes the computer “think” of an integer between 0 and 5 and ask the user to try to find out which number was chosen by the computer. The program should write on the screen if the user won or lost.
+28. Write a program that reads the speed of a car. If he goes over 80km/h, show a message saying he was fined. The fine will cost R$7.00 for each km over the limit.

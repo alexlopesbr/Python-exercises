@@ -1,6 +1,6 @@
 # Make a program that reads something from the keyboard and displays its primitive type and all possible information about it on the screen.
 
-something = input("Enter something: ")
+something = input('Enter something: ')
 
 print('Type: ', type(something).__name__)
 print('Have space? : ', something.isspace())
