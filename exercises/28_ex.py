@@ -3,9 +3,8 @@
 speed_limit = 80
 Your_speed = int(input('Enter your speed: '))
 
-
 if Your_speed > speed_limit:
-    fine_amount = (Your_speed - speed_limit) * 7   
+    fine_amount = (Your_speed - speed_limit) * 7
     print('You were fined for going over the speed limit.')
     print('Your fine is R${}'.format(fine_amount))
 else:

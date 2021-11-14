@@ -1,6 +1,8 @@
 # python_exercises
 Exercises from Curso Em Vídeo
 
+## World 1
+
 00. Create a program that says 'Hello World!' on the screen.
 01. Make a program that reads a person's name and displays a welcome message. 
 02. Create a program that reads two numbers and shows the sum between them.
@@ -30,3 +32,9 @@ Exercises from Curso Em Vídeo
 26. Make a program that reads a person's full name, then displays the first and last name separately.
 27. Write a program that makes the computer “think” of an integer between 0 and 5 and ask the user to try to find out which number was chosen by the computer. The program should write on the screen if the user won or lost.
 28. Write a program that reads the speed of a car. If he goes over 80km/h, show a message saying he was fined. The fine will cost R$7.00 for each km over the limit.
+29. Create a program that reads an integer and shows on the screen whether it is EVEN or ODD.
+30. Develop a program that asks the distance of a trip in Km. Calculate the ticket price, charging R$0.50 per Km for trips of up to 200Km and R$0.45 for longer trips.
+31. Make a program that reads any year and shows if it is a leap year.
+32. Make a program that reads three numbers and shows which is the largest and which is the smallest.
+33. Write a program that asks for an employee's salary and calculates the amount of his raise. For salaries above R$1250.00, calculate a 10% increase. For inferiors or equals, the increase is 15%.
+34. Develop a program that reads the length of three lines and tells the user whether or not they can form a triangle.
