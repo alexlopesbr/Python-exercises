@@ -38,3 +38,7 @@ Exercises from Curso Em Vídeo
 32. Make a program that reads three numbers and shows which is the largest and which is the smallest.
 33. Write a program that asks for an employee's salary and calculates the amount of his raise. For salaries above R$1250.00, calculate a 10% increase. For inferiors or equals, the increase is 15%.
 34. Develop a program that reads the length of three lines and tells the user whether or not they can form a triangle.
+
+## World 2
+
+35. Write a program to approve the bank loan for a home purchase. Ask the value of the house, the buyer's salary and in how many years he will pay. The monthly payment cannot exceed 30% of the salary or the loan will be denied.
