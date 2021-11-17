@@ -42,3 +42,4 @@ Exercises from Curso Em Vídeo
 ## World 2
 
 35. Write a program to approve the bank loan for a home purchase. Ask the value of the house, the buyer's salary and in how many years he will pay. The monthly payment cannot exceed 30% of the salary or the loan will be denied.
+36. Write a Python program that reads any integer and ask the user to choose the base conversion: 1 to binary, 2 to octal, and 3 to hexadecimal.
