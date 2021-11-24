@@ -45,3 +45,4 @@ Exercises from Curso Em Vídeo
 36. Write a Python program that reads any integer and ask the user to choose the base conversion: 1 to binary, 2 to octal, and 3 to hexadecimal.
 37. Write a program that reads two whole numbers and compares them. showing on the screen a message:
 38. Make a program that reads a young person's year of birth and tells them, based on their age, whether they are still enlisting, whether it is an exact time to enlist, or whether enlistment time is past. Your program should also show you the time that is missing or past the deadline.
+39. Create a program that reads two grades from a student and calculates their average, showing a message at the end, according to the average achieved: < 5 == disaproved, 5 - 6.9 == recovery, >= 7 == approved.
