@@ -46,3 +46,4 @@ Exercises from Curso Em Vídeo
 37. Write a program that reads two whole numbers and compares them. showing on the screen a message:
 38. Make a program that reads a young person's year of birth and tells them, based on their age, whether they are still enlisting, whether it is an exact time to enlist, or whether enlistment time is past. Your program should also show you the time that is missing or past the deadline.
 39. Create a program that reads two grades from a student and calculates their average, showing a message at the end, according to the average achieved: < 5 == disaproved, 5 - 6.9 == recovery, >= 7 == approved.
+40. The National Swimming Confederation needs a program that reads an athlete's year of birth and shows their category, according to age:
